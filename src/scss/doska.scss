@@ -22,9 +22,10 @@
 
       & h3 {
         font-size: 16px;
+        line-height: 24px;
         text-align: center;
-        padding-top: 16px;
         text-transform: uppercase;
+        font-weight: normal;
         margin-bottom: 200px;
       }
 
@@ -83,7 +84,7 @@
 
   .doska {
     display: block;
-    width: 1200px;
+    //width: 1200px;
     align-items: center;
 
     & h2 {
@@ -106,7 +107,7 @@
 
         & h3 {
           font-size: 24px;
-          font-weight: 400;
+          line-height: 36px;
         }
       }
     }

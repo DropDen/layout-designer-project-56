@@ -4,76 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e84601cb-5d54-44f8-897f-e91d219df0f0" name="Changes" comment="аа">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/Roboto-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/Roboto-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/Roboto-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/A-ha.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/Brother.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/Chris Rea.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/Duran Duran.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/Facebook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/Frank Sinatra.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/Google+.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/Instagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/Jack Savoretti.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/Keane.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/Letter from Egypt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/Morten Harket.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/Music to Be Murdered By.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/Ordinary Man.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/Out of My Hands.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/Paul Young.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/Poetenes Evangelium.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/Tears for Fears.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/Twitter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/Vogts Villa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/Wild Seed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/avatar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/heart.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/iphone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/play-button.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/subscribe_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/subscribe_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/subscribe_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/app.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/app.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/back.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/back.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/back.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/back2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/back2.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/back2.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/backsize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/backsize.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/backsize.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/doska.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/doska.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/doska.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/general.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/general.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/general.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/header.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/hero.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/hero.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/hero.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/news.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/news.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/news.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/variables.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/variables.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/variables.scss" afterDir="false" />
+    <list default="true" id="e84601cb-5d54-44f8-897f-e91d219df0f0" name="Changes" comment="4step">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/app.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/app.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/doska.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/doska.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/hero.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/hero.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/news.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/news.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +71,7 @@
       <workItem from="1687717882636" duration="2000" />
       <workItem from="1687717989017" duration="1696000" />
       <workItem from="1687720361801" duration="4000" />
-      <workItem from="1687720483919" duration="18416000" />
+      <workItem from="1687720483919" duration="22561000" />
     </task>
     <task id="LOCAL-00001" summary="done2step">
       <created>1687627770409</created>
@@ -149,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687717241133</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="4step">
+      <created>1687877606855</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687877606855</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,6 +104,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="done2step" />
     <MESSAGE value="аа" />
-    <option name="LAST_COMMIT_MESSAGE" value="аа" />
+    <MESSAGE value="4step" />
+    <option name="LAST_COMMIT_MESSAGE" value="4step" />
   </component>
 </project>

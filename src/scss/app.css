@@ -104,7 +104,7 @@ h2 {
   padding-left: 16px;
 }
 .header .menu ul {
-  margin: 18px 0;
+  margin: 17px 0 18px 0;
   width: fit-content;
   list-style-type: none;
   padding: 0;
@@ -120,6 +120,9 @@ h2 {
   cursor: pointer;
 }
 .header .menu ul li a:hover {
+  color: #FFFFFF;
+}
+.header .menu ul li .firsta {
   color: #FFFFFF;
 }
 .header .search-head label {
@@ -235,14 +238,14 @@ h2 {
 }
 .back2 {
   display: block;
-  padding-left: 20px;
-  padding-right: 20px;
   padding-top: 100px;
 }
 
 @media (min-width: 1240px) {
   .back2 {
     width: 1200px;
+    display: flex;
+    justify-content: center;
   }
 }
 .doska h2 {
@@ -295,7 +298,8 @@ h2 {
 }
 .doska .price .pricing .footer {
   text-align: center;
-  font-size: 13px;
+  font-size: 12.8px;
+  line-height: 1.5em;
   margin-bottom: 64px;
 }
 .doska .price .free {
@@ -312,10 +316,6 @@ h2 {
 }
 
 @media (min-width: 1240px) {
-  #page-pricing {
-    display: flex;
-    justify-content: center;
-  }
   .doska {
     display: block;
     align-items: center;
@@ -365,6 +365,7 @@ h2 {
   grid-template-columns: repeat(3, auto);
   justify-content: left;
   grid-column-gap: 16px;
+  margin-bottom: 48px;
 }
 .news .items .item .grid .grid1 {
   grid-column: span 1;
@@ -372,14 +373,12 @@ h2 {
 .news .items .item .grid .grid2 {
   grid-column: span 1;
   font-size: 12.8px;
-  line-height: 1.5em;
   color: #F89202;
   align-items: center;
 }
 .news .items .item .grid .grid3 {
   grid-column: span 1;
   font-size: 12.8px;
-  line-height: 1.5em;
   color: #CACACA;
 }
 .news .items .item .button {
@@ -387,8 +386,7 @@ h2 {
   height: 53px;
   flex-shrink: 0;
   border-radius: 5px;
-  font-size: 16px;
-  line-height: 24px;
+  font-size: 12.8px;
   border: 1px solid #CACACA;
   background: none;
   color: #CACACA;
@@ -400,10 +398,6 @@ h2 {
 }
 
 @media (min-width: 1240px) {
-  #page-news {
-    display: flex;
-    justify-content: center;
-  }
   .news {
     display: block;
   }

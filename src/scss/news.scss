@@ -1,0 +1,133 @@
+.news {
+  & h2 {
+    text-align: center;
+    margin-bottom: 48px;
+  }
+  & .items {
+
+    & .item {
+
+      & img {
+        width: 100%;
+        margin-bottom: 50px;
+      }
+
+      & h3 {
+        text-align: left;
+        font-size: 16px;
+        font-weight: 400;
+        margin-bottom: 16px;
+      }
+      & p {
+        color: $text-grey;
+        margin-bottom: 24px;
+      }
+
+      & .grid {
+        display: grid;
+        grid-template-columns: repeat(3, auto);
+        justify-content: left;
+        grid-column-gap: 16px;
+
+        & .grid1 {
+          grid-column: span 1;
+        }
+        & .grid2 {
+          grid-column: span 1;
+          font-size: 12.8px;
+          line-height: 1.5em;
+          color: $orange;
+          align-items: center;
+        }
+        & .grid3 {
+          grid-column: span 1;
+          font-size: 12.8px;
+          line-height: 1.5em;
+          color: $text-grey;
+        }
+      }
+
+      & .button {
+        width: 135px;
+        height: 53px;
+        flex-shrink: 0;
+        border-radius: 5px;
+        font-size: 16px;
+        line-height: 24px;
+        border: 1px solid $text-grey;
+        background: none;
+        color: $text-grey;
+        text-transform: uppercase;
+        cursor: pointer;
+        margin-bottom: 64px;
+      }
+    }
+  }
+}
+
+@media (min-width : 1240px) {
+  #page-news {
+    display: flex;
+    justify-content: center;
+  }
+  .news {
+    display: block;
+
+    & .items {
+
+      & .item:nth-child(1) {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-column-gap: 50px;
+        justify-content: center;
+
+
+        & .itemdescript {
+          grid-column: span 1;
+        }
+
+        & img {
+          grid-column: span 1;
+        }
+
+
+        & h3 {
+          font-size: 30px;
+          line-height: 45px;
+          margin-top: 0;
+        }
+
+        & p {
+          font-size: 16px;
+          line-height: 24px;
+        }
+      }
+
+      & .item:nth-child(2) {
+        display: grid;
+        grid-template-areas: "tex ozz";
+        grid-column-gap: 50px;
+        justify-content: center;
+
+
+        & .itemdescript {
+          grid-area: tex;
+        }
+
+        & .ozzi {
+          grid-area: ozz;
+        }
+        & h3 {
+          font-size: 30px;
+          line-height: 45px;
+          margin-top: 0;
+        }
+
+        & p {
+          font-size: 16px;
+          line-height: 24px;
+        }
+      }
+    }
+  }
+}

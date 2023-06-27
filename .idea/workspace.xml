@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e84601cb-5d54-44f8-897f-e91d219df0f0" name="Changes" comment="аа">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/Roboto-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/Roboto-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/Roboto-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/A-ha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Brother.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Chris Rea.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Duran Duran.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Frank Sinatra.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Google+.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Instagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Jack Savoretti.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Keane.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Letter from Egypt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Morten Harket.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Music to Be Murdered By.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Ordinary Man.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Out of My Hands.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Paul Young.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Poetenes Evangelium.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Tears for Fears.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Vogts Villa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Wild Seed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/heart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/iphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/play-button.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/subscribe_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/subscribe_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/subscribe_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/app.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/back.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/back.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/back.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/back2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/back2.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/back2.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/backsize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/backsize.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/backsize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/doska.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/doska.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/doska.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/general.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/general.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/general.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/header.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/hero.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/hero.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/hero.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/news.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/news.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/news.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/variables.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/variables.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/variables.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2Rf3ccZlra9UKmDgf4VoHp7LeCo" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/deniskaplin/layout-designer-project-56&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e84601cb-5d54-44f8-897f-e91d219df0f0" name="Changes" comment="" />
+      <created>1687627388627</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687627388627</updated>
+      <workItem from="1687627390788" duration="2093000" />
+      <workItem from="1687705291658" duration="6147000" />
+      <workItem from="1687711895684" duration="3360000" />
+      <workItem from="1687715950628" duration="1344000" />
+      <workItem from="1687717346590" duration="531000" />
+      <workItem from="1687717882636" duration="2000" />
+      <workItem from="1687717989017" duration="1696000" />
+      <workItem from="1687720361801" duration="4000" />
+      <workItem from="1687720483919" duration="18416000" />
+    </task>
+    <task id="LOCAL-00001" summary="done2step">
+      <created>1687627770409</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687627770409</updated>
+    </task>
+    <task id="LOCAL-00002" summary="аа">
+      <created>1687717241132</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687717241133</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="done2step" />
+    <MESSAGE value="аа" />
+    <option name="LAST_COMMIT_MESSAGE" value="аа" />
+  </component>
+</project>

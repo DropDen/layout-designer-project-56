@@ -1,0 +1,12 @@
+.back2 {
+  display: block;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 100px;
+}
+
+@media (min-width : 1240px){
+  .back2 {
+    width: 1200px;
+  }
+}

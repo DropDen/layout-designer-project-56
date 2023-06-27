@@ -1,0 +1,17 @@
+.back {
+  display: block;
+  padding-top: 250px;
+  padding-bottom: 200px;
+
+  background-image: url(../images/banner.png);
+  background-position: center;
+  background-size: cover;
+}
+
+@media (min-width : 1240px) {
+  .back {
+    display: flex;
+    justify-content: center;
+    padding-top: 200px;
+  }
+}

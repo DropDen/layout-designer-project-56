@@ -61,6 +61,43 @@ h2 {
     text-transform: uppercase;
   }
 }
+.store h2 {
+  text-align: center;
+  margin-bottom: 48px;
+}
+.store .flexconteiner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.store .flexconteiner .storedescript .button {
+  margin-top: 15px;
+  margin-right: auto;
+  padding: 16px 40px;
+  flex-shrink: 0;
+  border-radius: 32px;
+  font-size: 12.8px;
+  border: none;
+  background: #95390C;
+  color: #FFFFFF;
+  cursor: pointer;
+}
+
+@media (min-width: 1240px) {
+  .store .flexconteiner {
+    flex-direction: row-reverse;
+  }
+  .store .flexconteiner .picstore {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+  }
+  .store .flexconteiner .storedescript {
+    display: block;
+    width: 600px;
+    margin-bottom: 0px;
+  }
+}
 .back {
   display: block;
   padding-top: 250px;
@@ -243,7 +280,6 @@ h2 {
 
 @media (min-width: 1240px) {
   .back2 {
-    width: 1200px;
     display: flex;
     justify-content: center;
   }
@@ -453,10 +489,13 @@ h2 {
 
 @media (min-width: 1240px) {
   .back3 {
-    width: 1200px;
     display: flex;
     justify-content: center;
   }
+}
+.store h2 {
+  text-align: center;
+  margin-bottom: 48px;
 }
 
 /*# sourceMappingURL=app.css.map */

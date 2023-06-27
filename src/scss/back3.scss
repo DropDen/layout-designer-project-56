@@ -1,0 +1,14 @@
+.back3 {
+  display: block;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: #08020d;
+}
+
+@media (min-width : 1240px){
+  .back3 {
+    width: 1200px;
+    display: flex;
+    justify-content: center;
+  }
+}

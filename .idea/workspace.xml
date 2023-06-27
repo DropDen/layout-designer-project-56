@@ -4,14 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e84601cb-5d54-44f8-897f-e91d219df0f0" name="Changes" comment="4stepDone">
+    <list default="true" id="e84601cb-5d54-44f8-897f-e91d219df0f0" name="Changes" comment="4step">
+      <change afterPath="$PROJECT_DIR$/src/scss/back3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/back3.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/back3.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/store.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/store.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/store.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scss/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/app.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scss/app.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/app.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/back2.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/back2.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/news.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/news.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/app.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,21 +39,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/deniskaplin/layout-designer-project-56&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/deniskaplin/layout-designer-project-56",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
@@ -71,7 +76,7 @@
       <workItem from="1687717882636" duration="2000" />
       <workItem from="1687717989017" duration="1696000" />
       <workItem from="1687720361801" duration="4000" />
-      <workItem from="1687720483919" duration="27228000" />
+      <workItem from="1687720483919" duration="30683000" />
     </task>
     <task id="LOCAL-00001" summary="done2step">
       <created>1687627770409</created>
@@ -115,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687892403561</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="4step">
+      <created>1687894079449</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1687894079449</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,9 +137,9 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="done2step" />
     <MESSAGE value="аа" />
-    <MESSAGE value="4step" />
     <MESSAGE value="4steps" />
     <MESSAGE value="4stepDone" />
-    <option name="LAST_COMMIT_MESSAGE" value="4stepDone" />
+    <MESSAGE value="4step" />
+    <option name="LAST_COMMIT_MESSAGE" value="4step" />
   </component>
 </project>

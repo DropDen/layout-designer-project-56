@@ -68,6 +68,50 @@ h2 {
   }
 }
 
+#page-pricing {
+  display: block;
+  padding-top: 100px;
+  background-color: #08020d;
+
+
+}
+@media (min-width : 1240px){
+  #page-pricing {
+    display: flex;
+    justify-content: center;
+  }
+}
+
+#page-news {
+  display: block;
+  padding-top: 100px;
+  background-color: #08020d;
+
+
+   }
+@media (min-width : 1240px){
+  #page-news {
+    display: flex;
+    justify-content: center;
+     }
+   }
+
+#page-app {
+  display: block;
+  padding-top: 100px;
+  margin-bottom: 100px;
+  background-color: #08020d;
+
+
+}
+@media (min-width : 1240px){
+  #page-app {
+    display: flex;
+    justify-content: center;
+  }
+}
+
+
 .store {
   & h2 {
     text-align: center;

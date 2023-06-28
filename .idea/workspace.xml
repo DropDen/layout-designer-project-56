@@ -9,7 +9,7 @@
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scss/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/app.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scss/app.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/app.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/back.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/back.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/back2.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/back2.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scss/variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/variables.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +71,7 @@
       <workItem from="1687717882636" duration="2000" />
       <workItem from="1687717989017" duration="1696000" />
       <workItem from="1687720361801" duration="4000" />
-      <workItem from="1687720483919" duration="42959000" />
+      <workItem from="1687720483919" duration="44506000" />
     </task>
     <task id="LOCAL-00001" summary="done2step">
       <created>1687627770409</created>
@@ -150,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687980030665</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="5step">
+      <created>1687981665344</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1687981665344</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

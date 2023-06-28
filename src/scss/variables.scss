@@ -67,6 +67,7 @@ h2 {
     text-transform: uppercase;
   }
 }
+
 .store {
   & h2 {
     text-align: center;
@@ -79,14 +80,17 @@ h2 {
     align-items: center;
 
     & .picstore {
+      margin-bottom: 16px;
     }
 
     & .storedescript {
+      color: $text-grey;
+      margin-bottom: 0;
 
       & .button {
         margin-top: 15px;
         margin-right: auto;
-        padding: 16px 40px;
+        padding: 17px 41px;
         flex-shrink: 0;
         border-radius: 32px;
         font-size: 12.8px;

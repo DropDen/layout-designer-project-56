@@ -76,12 +76,16 @@
     display: block;
 
     & .items {
-
       & .item:nth-child(1) {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         grid-column-gap: 50px;
         justify-content: center;
+
+        & img {
+          background-size: cover;
+
+        }
 
 
         & .itemdescript {
@@ -92,11 +96,11 @@
           grid-column: span 1;
         }
 
-
         & h3 {
           font-size: 30px;
           line-height: 45px;
-          margin-top: 0;
+          top: 0;
+
         }
 
         & p {
@@ -110,6 +114,7 @@
         grid-template-areas: "tex ozz";
         grid-column-gap: 50px;
         justify-content: center;
+        margin-bottom: 65px;
 
 
         & .itemdescript {
@@ -118,6 +123,7 @@
 
         & .ozzi {
           grid-area: ozz;
+          background-size: cover;
         }
         & h3 {
           font-size: 30px;

@@ -80,12 +80,16 @@ h2 {
     align-items: center;
 
     & .picstore {
-      margin-bottom: 16px;
     }
 
     & .storedescript {
       color: $text-grey;
       margin-bottom: 0;
+
+      & p {
+        font-size: 16px;
+        line-height: 1.5em;
+      }
 
       & .button {
         margin-top: 15px;

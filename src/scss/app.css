@@ -71,12 +71,13 @@ h2 {
   flex-direction: column;
   align-items: center;
 }
-.store .flexconteiner .picstore {
-  margin-bottom: 16px;
-}
 .store .flexconteiner .storedescript {
   color: #CACACA;
   margin-bottom: 0;
+}
+.store .flexconteiner .storedescript p {
+  font-size: 16px;
+  line-height: 1.5em;
 }
 .store .flexconteiner .storedescript .button {
   margin-top: 15px;
@@ -108,7 +109,7 @@ h2 {
 }
 .back {
   display: block;
-  padding-top: 250px;
+  padding-top: 249px;
   padding-bottom: 200px;
   background-image: url(../images/banner.png);
   background-position: center;

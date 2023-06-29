@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e84601cb-5d54-44f8-897f-e91d219df0f0" name="Changes" comment="5step">
+    <list default="true" id="e84601cb-5d54-44f8-897f-e91d219df0f0" name="Changes" comment="5stepdone">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scss/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/app.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scss/app.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/app.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/back.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/back.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scss/back2.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/back2.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/news.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/news.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scss/variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/variables.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +73,7 @@
       <workItem from="1687717882636" duration="2000" />
       <workItem from="1687717989017" duration="1696000" />
       <workItem from="1687720361801" duration="4000" />
-      <workItem from="1687720483919" duration="44506000" />
+      <workItem from="1687720483919" duration="55708000" />
     </task>
     <task id="LOCAL-00001" summary="done2step">
       <created>1687627770409</created>
@@ -157,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687981665344</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="5stepdone">
+      <created>1687983544291</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1687983544291</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +180,7 @@
     <MESSAGE value="4stepDone" />
     <MESSAGE value="4step" />
     <MESSAGE value="5step" />
-    <option name="LAST_COMMIT_MESSAGE" value="5step" />
+    <MESSAGE value="5stepdone" />
+    <option name="LAST_COMMIT_MESSAGE" value="5stepdone" />
   </component>
 </project>

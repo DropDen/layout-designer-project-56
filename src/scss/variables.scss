@@ -22,7 +22,7 @@ body {
   color: $text-white;
   margin: 0;
   font-weight: 400;
-  background: #3C3B3D;
+  background-color: #08020d;
 }
 
 
@@ -110,6 +110,20 @@ h2 {
     justify-content: center;
   }
 }
+#page-footer {
+  display: block;
+  background: linear-gradient(89.75deg, #5328a1 32.83%, #95390c 81.56%);
+
+}
+@media (min-width : 1240px){
+  #page-footer {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+  }
+}
 
 
 .store {
@@ -124,6 +138,7 @@ h2 {
     align-items: center;
 
     & .picstore {
+      margin-bottom: 16px;
     }
 
     & .storedescript {
@@ -165,9 +180,7 @@ h2 {
       & .storedescript {
         display: block;
         width: 600px;
-        margin-bottom: 0px;
       }
-
     }
   }
 }

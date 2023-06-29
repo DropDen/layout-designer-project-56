@@ -122,7 +122,7 @@ h2 {
   align-items: center;
 }
 .store .flexconteiner .picstore {
-  margin-bottom: 8px;
+  margin-bottom: 6px;
 }
 .store .flexconteiner .storedescript {
   color: #CACACA;
@@ -148,15 +148,19 @@ h2 {
 @media (min-width: 1240px) {
   .store .flexconteiner {
     flex-direction: row-reverse;
+    align-items: flex-start;
   }
   .store .flexconteiner .picstore {
     display: flex;
     flex: 1;
     justify-content: center;
+    margin-bottom: 0px;
   }
   .store .flexconteiner .storedescript {
-    display: block;
+    display: flex;
+    flex-direction: column;
     width: 600px;
+    margin-top: 16px;
   }
 }
 .back {
@@ -556,22 +560,23 @@ h2 {
   }
   .news .items .item:nth-child(1) .itemdescript {
     grid-column: span 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .news .items .item:nth-child(1) .itemdescript h3 {
+    font-size: 30px;
+    line-height: 45px;
+    margin-top: 0;
+  }
+  .news .items .item:nth-child(1) .itemdescript p {
+    font-size: 16px;
+    line-height: 24px;
   }
   .news .items .item:nth-child(1) > img {
     grid-column: span 1;
     background-size: cover;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-  }
-  .news .items .item:nth-child(1) h3 {
-    font-size: 30px;
-    line-height: 45px;
-    top: 0;
-  }
-  .news .items .item:nth-child(1) p {
-    font-size: 16px;
-    line-height: 24px;
   }
   .news .items .item:nth-child(2) {
     display: grid;
@@ -587,9 +592,6 @@ h2 {
   .news .items .item:nth-child(2) .ozzi {
     grid-area: ozz;
     background-size: cover;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
   }
   .news .items .item:nth-child(2) h3 {
     font-size: 30px;

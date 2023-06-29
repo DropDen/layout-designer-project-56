@@ -138,7 +138,7 @@ h2 {
     align-items: center;
 
     & .picstore {
-      margin-bottom: 8px;
+      margin-bottom: 6px;
     }
 
     & .storedescript {
@@ -170,16 +170,22 @@ h2 {
 
     & .flexconteiner {
       flex-direction: row-reverse;
+      align-items: flex-start;
+      //justify-content: flex-start;
 
       & .picstore {
         display: flex;
         flex: 1;
         justify-content: center;
+        margin-bottom: 0px;
+
       }
 
       & .storedescript {
-        display: block;
+        display: flex;
+        flex-direction: column;
         width: 600px;
+       margin-top: 16px;
       }
     }
   }

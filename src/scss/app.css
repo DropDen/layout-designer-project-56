@@ -112,57 +112,6 @@ h2 {
     align-items: center;
   }
 }
-.store h2 {
-  text-align: center;
-  margin-bottom: 48px;
-}
-.store .flexconteiner {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-.store .flexconteiner .picstore {
-  margin-bottom: 15px;
-}
-.store .flexconteiner .storedescript {
-  color: #CACACA;
-  margin-bottom: 0;
-}
-.store .flexconteiner .storedescript p {
-  font-size: 16px;
-  line-height: 1.5em;
-}
-.store .flexconteiner .storedescript .button {
-  margin-top: 15px;
-  margin-right: auto;
-  padding: 17px 41px;
-  flex-shrink: 0;
-  border-radius: 32px;
-  font-size: 12.8px;
-  border: none;
-  background: #95390C;
-  color: #FFFFFF;
-  cursor: pointer;
-}
-
-@media (min-width: 1240px) {
-  .store .flexconteiner {
-    flex-direction: row-reverse;
-    align-items: flex-start;
-  }
-  .store .flexconteiner .picstore {
-    display: flex;
-    flex: 1;
-    justify-content: center;
-    margin-bottom: 0px;
-  }
-  .store .flexconteiner .storedescript {
-    display: flex;
-    flex-direction: column;
-    width: 600px;
-    margin-top: 16px;
-  }
-}
 .back {
   display: block;
   padding-top: 248px;
@@ -615,6 +564,60 @@ h2 {
     display: flex;
     justify-content: center;
   }
+}
+.store h2 {
+  text-align: center;
+  margin-bottom: 48px;
+}
+.store .flexconteiner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.store .flexconteiner .picstore {
+  margin-bottom: 15px;
+}
+.store .flexconteiner .storedescript {
+  color: #CACACA;
+  margin-bottom: 0;
+}
+.store .flexconteiner .storedescript p {
+  font-size: 16px;
+  line-height: 24px;
+}
+.store .flexconteiner .storedescript .button {
+  margin-top: 15px;
+  margin-right: auto;
+  padding: 17px 41px;
+  flex-shrink: 0;
+  border-radius: 32px;
+  font-size: 12.8px;
+  border: none;
+  background: #95390C;
+  color: #FFFFFF;
+  cursor: pointer;
+}
+
+@media (min-width: 1240px) {
+  .store .flexconteiner {
+    flex-direction: row-reverse;
+    align-items: flex-start;
+  }
+  .store .flexconteiner .picstore {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    margin-bottom: 0px;
+  }
+  .store .flexconteiner .storedescript {
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    margin-top: 16px;
+  }
+}
+.bb {
+  background: #34C176;
 }
 
 /*# sourceMappingURL=app.css.map */

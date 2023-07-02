@@ -1,52 +1,64 @@
-//.store {
-//  & h2 {
-//    //text-align: center;
-//    margin-bottom: 48px;
-//  }
-//
-//  & .flexconteiner {
-//    display: flex;
-//    flex-direction: column;
-//    align-items: center;
-//
-//    & .picstore {
-//    }
-//
-//    & .storedescript {
-//
-//      & .button {
-//        margin-top: 15px;
-//        margin-right: auto;
-//        padding: 16px 40px;
-//        flex-shrink: 0;
-//        border-radius: 32px;
-//        font-size: 12.8px;
-//        border: none;
-//        background: #95390C;
-//        color: $text-white;
-//        cursor: pointer;
-//      }
-//    }
-//  }
-//}
-//@media (min-width : 1240px){
-//  .store {
-//
-//    & .flexconteiner {
-//      flex-direction: row-reverse;
-//
-//      & .picstore {
-//        display: flex;
-//        flex: 1;
-//        justify-content: center;
-//      }
-//
-//      & .storedescript {
-//        display: block;
-//        width: 600px;
-//        margin-bottom: 0px;
-//      }
-//
-//    }
-//  }
-//}
+.store {
+  & h2 {
+    text-align: center;
+    margin-bottom: 48px;
+  }
+
+  & .flexconteiner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    & .picstore {
+      margin-bottom: 15px;
+    }
+
+    & .storedescript {
+      color: $text-grey;
+      margin-bottom: 0;
+
+      & p {
+        font-size: 16px;
+        line-height: 24px;
+      }
+
+      & .button {
+        margin-top: 15px;
+        margin-right: auto;
+        padding: 17px 41px;
+        flex-shrink: 0;
+        border-radius: 32px;
+        font-size: 12.8px;
+        border: none;
+        background: #95390C;
+        color: $text-white;
+        cursor: pointer;
+      }
+    }
+  }
+}
+@media (min-width : 1240px){
+  .store {
+
+    & .flexconteiner {
+      flex-direction: row-reverse;
+      align-items: flex-start;
+      //justify-content: flex-start;
+
+      & .picstore {
+        display: flex;
+        flex: 1;
+        justify-content: center;
+        margin-bottom: 0px;
+
+      }
+
+      & .storedescript {
+        display: flex;
+        flex-direction: column;
+        width: 600px;
+        margin-top: 16px;
+      }
+    }
+  }
+}

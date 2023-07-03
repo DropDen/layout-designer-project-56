@@ -564,17 +564,16 @@ h2 {
     justify-content: center;
   }
 }
+.store {
+  width: 100%;
+}
 .store h2 {
   text-align: center;
   margin-bottom: 48px;
 }
-.store .flexconteiner {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
 .store .flexconteiner .picstore {
   margin-bottom: 15px;
+  text-align: center;
 }
 .store .flexconteiner .storedescript {
   color: #CACACA;
@@ -599,6 +598,7 @@ h2 {
 
 @media (min-width: 1240px) {
   .store .flexconteiner {
+    display: flex;
     flex-direction: row-reverse;
     align-items: flex-start;
   }
@@ -606,7 +606,6 @@ h2 {
     display: flex;
     flex: 1;
     justify-content: center;
-    margin-bottom: 0px;
   }
   .store .flexconteiner .storedescript {
     display: flex;

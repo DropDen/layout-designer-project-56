@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e84601cb-5d54-44f8-897f-e91d219df0f0" name="Changes" comment="step">
+    <list default="true" id="e84601cb-5d54-44f8-897f-e91d219df0f0" name="Changes" comment="step1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/app.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/app.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/news.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/news.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/nnnn.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/nnnn.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/sa.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/sa.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/store.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/store.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +68,7 @@
       <workItem from="1687720361801" duration="4000" />
       <workItem from="1687720483919" duration="61181000" />
       <workItem from="1688300882736" duration="3048000" />
-      <workItem from="1688402823683" duration="2045000" />
+      <workItem from="1688402823683" duration="2715000" />
     </task>
     <task id="LOCAL-00001" summary="done2step">
       <created>1687627770409</created>
@@ -218,7 +210,21 @@
       <option name="project" value="LOCAL" />
       <updated>1688404209230</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="step1">
+      <created>1688405834350</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1688405834350</updated>
+    </task>
+    <task id="LOCAL-00022" summary="step1">
+      <created>1688406085026</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1688406085026</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,6 +243,7 @@
     <MESSAGE value="6stepdone" />
     <MESSAGE value="new" />
     <MESSAGE value="step" />
-    <option name="LAST_COMMIT_MESSAGE" value="step" />
+    <MESSAGE value="step1" />
+    <option name="LAST_COMMIT_MESSAGE" value="step1" />
   </component>
 </project>

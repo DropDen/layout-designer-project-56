@@ -65,13 +65,12 @@ h2 {
 #page-pricing {
   display: block;
   padding-top: 100px;
-  background-color: #3C3B3D;
 }
 
 @media (min-width: 1240px) {
   #page-pricing {
     display: flex;
-    justify-content: start;
+    justify-content: center;
   }
 }
 #page-news {
@@ -131,7 +130,6 @@ h2 {
 .backsize {
   padding-left: 20px;
   padding-right: 20px;
-  background-color: #08020d;
 }
 
 @media (min-width: 1240px) {

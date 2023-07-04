@@ -22,7 +22,6 @@ body {
 
 main {
   display: block;
-  background: #08020D;
 }
 
 h1 {
@@ -220,6 +219,10 @@ h2 {
     width: 570px;
   }
 }
+#page-popular-track {
+  background: #08020D;
+}
+
 h2 {
   text-align: left;
   margin-bottom: 48px;

@@ -185,9 +185,8 @@ h2 {
 }
 
 @media (min-width: 1240px) {
-  .hero h1, .hero p {
-    margin: 0;
-    padding: 0;
+  .hero h1 {
+    margin-bottom: 0;
   }
   .hero p {
     margin-top: 16px;

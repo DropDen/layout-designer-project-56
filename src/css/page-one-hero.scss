@@ -36,10 +36,8 @@
 
 @media (min-width : 1240px) {
   .hero {
-
-    & h1, p {
-      margin: 0;
-      padding: 0;
+    & h1 {
+      margin-bottom: 0;
     }
 
     & p {

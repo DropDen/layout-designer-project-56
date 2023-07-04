@@ -1,0 +1,28 @@
+.backsize-head {
+    display: block;
+    padding-top: 225px;
+    padding-bottom: 200px;
+
+    background-image: url("../images/Morten Harket.png");
+    background-position: center;
+    background-size: cover;
+}
+
+@media (min-width : 1240px) {
+    .backsize-head {
+        display: flex;
+        justify-content: center;
+        padding-top: 200px;
+    }
+}
+
+.back-margin {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+@media (min-width : 1240px) {
+    .back-margin {
+        width: 1200px;
+    }
+}

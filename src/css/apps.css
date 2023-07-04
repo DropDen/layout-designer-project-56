@@ -87,6 +87,7 @@ h2 {
 @media (min-width: 1240px) {
   .backsize-two {
     display: flex;
+    justify-content: start;
   }
 }
 .header {
@@ -182,7 +183,7 @@ h2 {
 .hero .button {
   padding-bottom: 1.5rem;
 }
-.hero .btn {
+.hero .button .btn {
   width: 200px;
   padding: 20px 30px;
   border-radius: 5px;
@@ -213,9 +214,8 @@ h2 {
   }
   .hero .button {
     padding-right: 1.5rem;
-    padding-bottom: 0;
   }
-  .hero .btm {
+  .hero .button .btm {
     display: block;
     width: 570px;
   }

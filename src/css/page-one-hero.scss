@@ -11,18 +11,19 @@
 
   & .button {
     padding-bottom: 1.5rem;
-  }
 
-  & .btn{
-    width: 200px;
-    padding: 20px 30px;
-    border-radius: 5px;
-    border: none;
 
-    font-size: 12.8px;
-    color: $text-white;
-    text-transform: uppercase;
-    cursor: pointer;
+    & .btn {
+      width: 200px;
+      padding: 20px 30px;
+      border-radius: 5px;
+      border: none;
+
+      font-size: 12.8px;
+      color: $text-white;
+      text-transform: uppercase;
+      cursor: pointer;
+    }
   }
 
     & .btn-mix {
@@ -53,12 +54,13 @@
 
     & .button {
       padding-right: 1.5rem;
-      padding-bottom: 0;
-    }
+
 
       & .btm {
         display: block;
         width: 570px;
+
       }
     }
   }
+}

@@ -2,7 +2,7 @@
   padding-top: 100px;
 
   & h2 {
-    text-align: center;
+    text-align: left;
     margin-bottom: 48px;
   }
 }
@@ -16,7 +16,7 @@
   display: grid;
   grid-template-areas: "pic txt time" "pic txt time";
   grid-template-rows: repeat(2, 27.5px);
-  grid-template-columns: 55px 1fr 25px;
+  grid-template-columns: 55px 1fr 55px;
   grid-column-gap: 15px;
 }
 
@@ -52,6 +52,9 @@
 }
 .txt-track-time {
   grid-area: time;
+  font-size: 12.8px;
+  color: $text-grey;
+  text-align: right;
 }
 
 .popular-track{
@@ -62,14 +65,12 @@
 
 @media (min-width : 1240px) {
   #page-popular-track {
-    & h2 {
-      text-align: left;
-    }
 
     & .tracks-grid {
       grid-template-columns: repeat(2, 1fr);
       grid-template-rows: repeat(3,55px);
-      grid-column-gap: 49px;
+      column-gap: 49px;
+      padding-right: 49px;
 
     }
   }

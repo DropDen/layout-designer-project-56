@@ -17,11 +17,11 @@ body {
   font-family: Roboto-Regular, sans-serif;
   line-height: 1.5em;
   color: #FFFFFF;
-  background: #08020D;
   margin: 0;
 }
 
 main {
+  display: block;
   background: #08020D;
 }
 
@@ -81,7 +81,7 @@ h2 {
   }
 }
 .backsize-two {
-  margin-top: 100px;
+  padding-top: 100px;
 }
 
 @media (min-width: 1240px) {
@@ -182,7 +182,7 @@ h2 {
 .hero .button {
   padding-bottom: 1.5rem;
 }
-.hero .button .btn {
+.hero .btn {
   width: 200px;
   padding: 20px 30px;
   border-radius: 5px;
@@ -192,10 +192,10 @@ h2 {
   text-transform: uppercase;
   cursor: pointer;
 }
-.hero .button .btn-mix {
+.hero .btn-mix {
   background: #5328A1;
 }
-.hero .button .btn-love {
+.hero .btn-love {
   background: #95390C;
 }
 
@@ -213,19 +213,17 @@ h2 {
   }
   .hero .button {
     padding-right: 1.5rem;
+    padding-bottom: 0;
   }
   .hero .btm {
     display: block;
     width: 570px;
   }
 }
-#page-popular-track {
-  margin: 0;
-}
-
-.zagolovok h2 {
+h2 {
   text-align: left;
   margin-bottom: 48px;
+  margin-top: 0;
 }
 
 .tracks-grid {

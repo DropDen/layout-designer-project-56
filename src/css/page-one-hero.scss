@@ -11,18 +11,19 @@
 
   & .button {
     padding-bottom: 1.5rem;
+  }
 
-      & .btn{
-        width: 200px;
-        padding: 20px 30px;
-        border-radius: 5px;
-        border: none;
+  & .btn{
+    width: 200px;
+    padding: 20px 30px;
+    border-radius: 5px;
+    border: none;
 
-        font-size: 12.8px;
-        color: $text-white;
-        text-transform: uppercase;
-        cursor: pointer;
-      }
+    font-size: 12.8px;
+    color: $text-white;
+    text-transform: uppercase;
+    cursor: pointer;
+  }
 
     & .btn-mix {
       background: #5328A1;
@@ -32,7 +33,7 @@
       background: #95390C;
     }
     }
-  }
+
 
 @media (min-width : 1240px) {
   .hero {
@@ -45,11 +46,6 @@
       margin-bottom: 48px;
     }
 
-    //& p {
-    //  line-height: 1rem;
-    //}
-
-
     & .section-btn {
       display: flex;
       flex-direction: row;
@@ -57,6 +53,7 @@
 
     & .button {
       padding-right: 1.5rem;
+      padding-bottom: 0;
     }
 
       & .btm {

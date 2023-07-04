@@ -1,14 +1,9 @@
-#page-popular-track {
-  margin: 0;
-}
-.zagolovok {
-
-
-  & h2 {
+h2 {
     text-align: left;
     margin-bottom: 48px;
+    margin-top: 0;
   }
-}
+
 .tracks-grid {
   display: grid;
   grid-template-columns: 1fr;

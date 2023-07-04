@@ -1,6 +1,6 @@
 .backsize-head {
     display: block;
-    padding-top: 200px;
+    padding-top: 225px;
     padding-bottom: 200px;
 
     background-image: url("../images/Morten Harket.png");
@@ -19,21 +19,10 @@
 .back-margin {
     padding-left: 20px;
     padding-right: 20px;
-    margin: 0;
 }
 
 @media (min-width : 1240px) {
     .back-margin {
         width: 1200px;
-    }
-}
-
-.backsize-two {
-    padding-top: 100px;
-}
-
-@media (min-width : 1240px){
-    .backsize-two {
-        display: flex;
     }
 }

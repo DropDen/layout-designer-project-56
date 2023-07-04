@@ -1,8 +1,10 @@
-$text-grey: #CACACA;
-$text-white: #FFFFFF;
-$back-grey: #3C3B3D;
-$orange: #F89202;
-$black-fon: #08020D;
+root {
+    --text-grey: #CACACA;
+    --text-white: #FFFFFF;
+    --back-grey: #3C3B3D;
+}
+
+
 
 @font-face {
     font-weight: 400;
@@ -25,13 +27,9 @@ $black-fon: #08020D;
 body {
     font-family: Roboto-Regular, sans-serif;
     line-height: 1.5em;
-    color: $text-white;
-    //background: $black-fon;
+    color: var(--text-white);
+
     margin: 0;
-}
-main {
-    display: block;
-    background: $black-fon;
 }
 
 h1 {

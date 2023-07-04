@@ -16,6 +16,7 @@
       <change beforePath="$PROJECT_DIR$/src/css/apps.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/apps.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/backsize.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/backsize.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/general.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/general.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/page-one-hero.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/page-one-hero.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/page-two.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/page-two.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +83,9 @@
       <workItem from="1688402823683" duration="6628000" />
       <workItem from="1688450848336" duration="1145000" />
       <workItem from="1688452430494" duration="531000" />
-      <workItem from="1688452993652" duration="16109000" />
+      <workItem from="1688452993652" duration="17203000" />
+      <workItem from="1688491726136" duration="410000" />
+      <workItem from="1688492296749" duration="435000" />
     </task>
     <task id="LOCAL-00001" summary="done2step">
       <created>1687627770409</created>
@@ -322,7 +325,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688482574739</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="artistPage2">
+      <created>1688490655797</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1688490655797</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

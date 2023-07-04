@@ -2,6 +2,7 @@ $text-grey: #CACACA;
 $text-white: #FFFFFF;
 $back-grey: #3C3B3D;
 $orange: #F89202;
+$black-fon: #08020D;
 
 @font-face {
     font-weight: 400;
@@ -25,8 +26,18 @@ body {
     font-family: Roboto-Regular, sans-serif;
     line-height: 1.5em;
     color: $text-white;
-
+    background: $black-fon;
     margin: 0;
+}
+main {
+    background: $black-fon;
+}
+
+@media (min-width : 1240px) {
+    main {
+        display: flex;
+        justify-content: center;
+    }
 }
 
 h1 {

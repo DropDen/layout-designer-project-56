@@ -1,0 +1,76 @@
+#page-popular-track {
+  padding-top: 100px;
+
+  & h2 {
+    text-align: center;
+    margin-bottom: 48px;
+  }
+}
+.tracks-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: repeat(6,55px);
+  grid-row-gap: 25px;
+}
+.track-grid {
+  display: grid;
+  grid-template-areas: "pic txt time" "pic txt time";
+  grid-template-rows: repeat(2, 27.5px);
+  grid-template-columns: 55px 1fr 25px;
+  grid-column-gap: 15px;
+}
+
+.track-img {
+  grid-area: pic;
+}
+.grid-p-txt{
+  display: flex;
+  flex-direction: column;
+  grid-area: txt;
+  justify-content: center;
+  line-height: 1.25rem;
+}
+
+.txt-track-top {
+  display: block;
+  font-size: 12.8px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: 0;
+  padding: 0;
+  line-height: 1.25rem;
+}
+
+.txt-track-btm {
+  display: block;
+  font-size: 12.8px;
+  font-weight: 400;
+  color: $text-grey;
+  margin: 0;
+  padding: 0;
+
+}
+.txt-track-time {
+  grid-area: time;
+}
+
+.popular-track{
+  & img {
+  width: 55px;
+  }
+}
+
+@media (min-width : 1240px) {
+  #page-popular-track {
+    & h2 {
+      text-align: left;
+    }
+
+    & .tracks-grid {
+      grid-template-columns: repeat(2, 1fr);
+      grid-template-rows: repeat(3,55px);
+      grid-column-gap: 49px;
+
+    }
+  }
+}

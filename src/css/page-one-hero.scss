@@ -37,9 +37,19 @@
 @media (min-width : 1240px) {
   .hero {
 
-    & h1 {
-      line-height: 1rem;
+    & h1, p {
+      margin: 0;
+      padding: 0;
     }
+
+    & p {
+      margin-top: 16px;
+      margin-bottom: 48px;
+    }
+
+    //& p {
+    //  line-height: 1rem;
+    //}
 
 
     & .section-btn {

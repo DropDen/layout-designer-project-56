@@ -25,12 +25,6 @@ main {
   background: #08020D;
 }
 
-@media (min-width: 1240px) {
-  main {
-    display: flex;
-    justify-content: center;
-  }
-}
 h1 {
   font-size: 30px;
   line-height: 45px;
@@ -78,6 +72,7 @@ h2 {
 .back-margin {
   padding-left: 20px;
   padding-right: 20px;
+  margin: 0;
 }
 
 @media (min-width: 1240px) {
@@ -86,7 +81,7 @@ h2 {
   }
 }
 .backsize-two {
-  padding-top: 100px;
+  margin-top: 100px;
 }
 
 @media (min-width: 1240px) {
@@ -224,7 +219,11 @@ h2 {
     width: 570px;
   }
 }
-#page-popular-track h2 {
+#page-popular-track {
+  margin: 0;
+}
+
+.zagolovok h2 {
   text-align: left;
   margin-bottom: 48px;
 }

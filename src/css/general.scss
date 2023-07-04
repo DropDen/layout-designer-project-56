@@ -33,13 +33,6 @@ main {
     background: $black-fon;
 }
 
-@media (min-width : 1240px) {
-    main {
-        display: flex;
-        justify-content: center;
-    }
-}
-
 h1 {
     font-size: 30px;
     line-height: 45px;

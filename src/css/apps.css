@@ -80,6 +80,7 @@ h2 {
   }
 }
 .backsize-two {
+  background: #08020D;
   padding-top: 100px;
 }
 
@@ -219,10 +220,6 @@ h2 {
     width: 570px;
   }
 }
-#page-popular-track {
-  background: #08020D;
-}
-
 h2 {
   text-align: left;
   margin-bottom: 48px;

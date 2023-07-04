@@ -185,6 +185,9 @@ h2 {
 }
 
 @media (min-width: 1240px) {
+  .hero h1 {
+    line-height: 1rem;
+  }
   .hero .section-btn {
     display: flex;
     flex-direction: row;

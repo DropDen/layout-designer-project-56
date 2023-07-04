@@ -37,6 +37,11 @@
 @media (min-width : 1240px) {
   .hero {
 
+    & h1 {
+      line-height: 1rem;
+    }
+
+
     & .section-btn {
       display: flex;
       flex-direction: row;

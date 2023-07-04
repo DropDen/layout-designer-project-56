@@ -85,6 +85,15 @@ h2 {
     width: 1200px;
   }
 }
+.backsize-two {
+  padding-top: 100px;
+}
+
+@media (min-width: 1240px) {
+  .backsize-two {
+    display: flex;
+  }
+}
 .header {
   width: calc(100% - 40px);
   position: absolute;
@@ -214,9 +223,6 @@ h2 {
     display: block;
     width: 570px;
   }
-}
-#page-popular-track {
-  padding-top: 100px;
 }
 #page-popular-track h2 {
   text-align: left;

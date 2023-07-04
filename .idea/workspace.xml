@@ -10,9 +10,15 @@
       <change afterPath="$PROJECT_DIR$/src/cc/back.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/cc/firstcc.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/cc/generalcc.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/page-tree.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/page-tree.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/page-tree.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/artist.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/artist.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/apps.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/apps.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/apps.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/apps.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/apps.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/apps.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/backsize.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/backsize.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/page-two.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/page-two.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +85,7 @@
       <workItem from="1688402823683" duration="6628000" />
       <workItem from="1688450848336" duration="1145000" />
       <workItem from="1688452430494" duration="531000" />
-      <workItem from="1688452993652" duration="14204000" />
+      <workItem from="1688452993652" duration="14825000" />
     </task>
     <task id="LOCAL-00001" summary="done2step">
       <created>1687627770409</created>
@@ -305,7 +311,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688481065062</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="artistPage2">
+      <created>1688482032694</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1688482032694</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

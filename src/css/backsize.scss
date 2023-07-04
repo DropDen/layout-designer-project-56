@@ -26,11 +26,14 @@
         width: 1200px;
     }
 }
-//
-//.back-main {
-//
-//}
-//
-//@media (min-width : 1240px){
-//
-//}
+
+.backsize-two {
+    padding-top: 100px;
+}
+
+@media (min-width : 1240px){
+    .backsize-two{
+        display: flex;
+        
+    }
+}

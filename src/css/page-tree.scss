@@ -7,7 +7,7 @@
 }
 .disco-img {
   width: 137px;
-  margin-bottom: 18px;
+  padding-bottom: 18px;
 }
 .disco-info {
   margin: 0;
@@ -19,6 +19,7 @@
   }
   & .disco-p {
     font-size: 18px;
+    line-height:  27px;
     font-weight: 700;
     color: $text-white;
   }

@@ -17,6 +17,7 @@ body {
   font-family: Roboto-Regular, sans-serif;
   line-height: 1.5em;
   color: #FFFFFF;
+  background: #08020D;
   margin: 0;
 }
 
@@ -93,7 +94,8 @@ h2 {
 .backsize-four {
   background: #08020D;
   padding-top: 100px;
-  padding-bottom: 100px;
+  margin-bottom: 100px;
+  margin-right: auto;
 }
 
 @media (min-width: 1240px) {
@@ -313,7 +315,7 @@ h2 {
 
 .disco-img {
   width: 137px;
-  margin-bottom: 18px;
+  padding-bottom: 18px;
 }
 
 .disco-info {
@@ -327,6 +329,7 @@ h2 {
 }
 .disco-info .disco-p {
   font-size: 18px;
+  line-height: 27px;
   font-weight: 700;
   color: #FFFFFF;
 }

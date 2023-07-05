@@ -43,7 +43,8 @@
 .backsize-four {
     background: $black-fon;
     padding-top: 100px;
-    padding-bottom: 100px;
+    margin-bottom: 100px;
+    margin-right: auto;
 }
 
 @media (min-width : 1240px){

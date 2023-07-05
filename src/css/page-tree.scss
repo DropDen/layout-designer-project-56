@@ -1,0 +1,34 @@
+.disco-grid {
+  display: grid;
+  grid-template-columns: repeat(2, min-content);
+  grid-column-gap: 50px;
+  grid-row-gap: 25px;
+  margin-right: 50px;
+}
+.disco-img {
+  width: 137px;
+  margin-bottom: 18px;
+}
+.disco-info {
+  margin: 0;
+  & p {
+    font-size: 16px;
+    font-weight: 400;
+    color: $text-grey;
+    margin: 0;
+  }
+  & .disco-p {
+    font-size: 16px;
+    font-weight: 700;
+    color: $text-white;
+  }
+}
+
+@media (min-width : 1240px) {
+  .disco-grid{
+    grid-template-columns: repeat(4, min-content);
+  }
+  .disco-img {
+    width: 250px;
+  }
+}

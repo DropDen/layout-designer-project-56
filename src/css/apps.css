@@ -291,5 +291,41 @@ h2 {
     padding-right: 49px;
   }
 }
+.disco-grid {
+  display: grid;
+  grid-template-columns: repeat(2, min-content);
+  grid-column-gap: 50px;
+  grid-row-gap: 25px;
+  margin-right: 50px;
+}
+
+.disco-img {
+  width: 137px;
+  margin-bottom: 18px;
+}
+
+.disco-info {
+  margin: 0;
+}
+.disco-info p {
+  font-size: 16px;
+  font-weight: 400;
+  color: #CACACA;
+  margin: 0;
+}
+.disco-info .disco-p {
+  font-size: 16px;
+  font-weight: 700;
+  color: #FFFFFF;
+}
+
+@media (min-width: 1240px) {
+  .disco-grid {
+    grid-template-columns: repeat(4, min-content);
+  }
+  .disco-img {
+    width: 250px;
+  }
+}
 
 /*# sourceMappingURL=apps.css.map */

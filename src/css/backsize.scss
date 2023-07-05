@@ -40,3 +40,15 @@
     }
 }
 
+.backsize-four {
+    background: $black-fon;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+@media (min-width : 1240px){
+    .backsize-four {
+        display: flex;
+        justify-content: start;
+    }
+}

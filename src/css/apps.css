@@ -318,6 +318,9 @@ h2 {
   font-weight: 700;
   color: #FFFFFF;
 }
+.disco-info .no-wrap {
+  white-space: nowrap;
+}
 
 @media (min-width: 1240px) {
   .disco-grid {

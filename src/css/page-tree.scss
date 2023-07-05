@@ -22,6 +22,9 @@
     font-weight: 700;
     color: $text-white;
   }
+  & .no-wrap {
+    white-space: nowrap;
+  }
 }
 
 @media (min-width : 1240px) {

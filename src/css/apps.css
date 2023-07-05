@@ -327,5 +327,8 @@ h2 {
     width: 250px;
   }
 }
+#page-similar .disco-info p {
+  text-align: center;
+}
 
 /*# sourceMappingURL=apps.css.map */

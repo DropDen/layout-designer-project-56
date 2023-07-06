@@ -415,7 +415,6 @@ h2 {
   .back2 {
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(1, min-content);
-    padding: 3rem 0;
     grid-row-gap: 40px;
   }
   .back2 h2 {

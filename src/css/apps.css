@@ -363,7 +363,7 @@ h2 {
 
 .back2 {
   display: grid;
-  grid-template-rows: repeat(4, 1fr);
+  grid-template-rows: repeat(4, min-content);
   padding: 3rem 0;
   grid-row-gap: 30px;
 }

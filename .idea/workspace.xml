@@ -4,16 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e84601cb-5d54-44f8-897f-e91d219df0f0" name="Changes" comment="artistPage4">
-      <change afterPath="$PROJECT_DIR$/src/css/page-foot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/page-foot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/page-foot.scss" afterDir="false" />
+    <list default="true" id="e84601cb-5d54-44f8-897f-e91d219df0f0" name="Changes" comment="DONE">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/artist.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/artist.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/apps.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/apps.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/apps.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/apps.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/apps.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/apps.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/backsize.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/backsize.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/page-foot.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/page-foot.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/app.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/app.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/back2.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/back2.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,13 +79,7 @@
       <workItem from="1688452993652" duration="17203000" />
       <workItem from="1688491726136" duration="410000" />
       <workItem from="1688492296749" duration="13870000" />
-    </task>
-    <task id="LOCAL-00001" summary="done2step">
-      <created>1687627770409</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1687627770409</updated>
+      <workItem from="1688627755670" duration="1294000" />
     </task>
     <task id="LOCAL-00002" summary="аа">
       <created>1687717241132</created>
@@ -426,7 +417,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688576222435</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="DONE">
+      <created>1688627881850</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1688627881850</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -450,6 +448,7 @@
     <MESSAGE value="artistPage2" />
     <MESSAGE value="artistPage3" />
     <MESSAGE value="artistPage4" />
-    <option name="LAST_COMMIT_MESSAGE" value="artistPage4" />
+    <MESSAGE value="DONE" />
+    <option name="LAST_COMMIT_MESSAGE" value="DONE" />
   </component>
 </project>

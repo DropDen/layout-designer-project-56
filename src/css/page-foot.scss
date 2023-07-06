@@ -1,7 +1,7 @@
 .back2 {
   display: grid;
   grid-template-rows: repeat(4, min-content);
-  padding: 3rem 0;
+  padding: 62px 0 75px;
   grid-row-gap: 30px;
 
   & .foocol {
@@ -31,6 +31,7 @@
       display: grid;
       grid-template-columns: repeat(4, min-content);
       grid-column-gap: 24px;
+      margin-bottom: 0;
     }
   }
 }
@@ -40,10 +41,12 @@
   box-sizing: border-box;
   width: 100%;
   border: 1px solid #CACACA;
+  margin: 0;
+
 }
 
 .fotfot {
-  padding: 2rem 0;
+  padding: 40px 0 47px;
 
   & ul {
     display: grid;
@@ -56,6 +59,7 @@
     line-height: 24px;
     text-decoration: none;
     cursor: pointer;
+    margin: 0;
   }
 }
 

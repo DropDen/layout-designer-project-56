@@ -52,3 +52,17 @@
         justify-content: start;
     }
 }
+
+.backsize-foot {
+    display: block;
+    background: linear-gradient(89.75deg, #5328a1 32.83%, #95390c 81.56%);
+}
+@media (min-width : 1240px){
+    .backsize-foot {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+
+    }
+}

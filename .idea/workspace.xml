@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e84601cb-5d54-44f8-897f-e91d219df0f0" name="Changes" comment="artistPage4">
+      <change afterPath="$PROJECT_DIR$/src/css/page-foot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/page-foot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/page-foot.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/artist.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/artist.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/apps.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/apps.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/apps.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/apps.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/apps.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/apps.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/backsize.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/backsize.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +81,7 @@
       <workItem from="1688452430494" duration="531000" />
       <workItem from="1688452993652" duration="17203000" />
       <workItem from="1688491726136" duration="410000" />
-      <workItem from="1688492296749" duration="9664000" />
+      <workItem from="1688492296749" duration="13870000" />
     </task>
     <task id="LOCAL-00001" summary="done2step">
       <created>1687627770409</created>
@@ -413,7 +419,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688575264568</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="artistPage4">
+      <created>1688576222435</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1688576222435</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

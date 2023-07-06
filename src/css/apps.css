@@ -420,6 +420,9 @@ h2 {
   .back2 h2 {
     font-size: 18px;
   }
+  .back2 ul {
+    margin-top: 0;
+  }
   .fotfot ul {
     grid-template-columns: repeat(5, min-content);
     grid-template-rows: min-content;

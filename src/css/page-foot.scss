@@ -68,13 +68,17 @@
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(1, min-content);
     grid-row-gap: 40px;
+    padding: 3rem 0 72px;
 
     & h2 {
       font-size: 18px;
     }
+
+    & .foocol {
+
     & ul {
       margin-top: 0;
-
+    }
     }
   }
 

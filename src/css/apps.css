@@ -416,11 +416,12 @@ h2 {
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(1, min-content);
     grid-row-gap: 40px;
+    padding: 3rem 0 72px;
   }
   .back2 h2 {
     font-size: 18px;
   }
-  .back2 ul {
+  .back2 .foocol ul {
     margin-top: 0;
   }
   .fotfot ul {

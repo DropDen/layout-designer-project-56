@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e84601cb-5d54-44f8-897f-e91d219df0f0" name="Changes" comment="DONE">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/apps.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/apps.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/page-foot.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/page-foot.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/app.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/app.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/back2.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/back2.scss" afterDir="false" />
-    </list>
+    <list default="true" id="e84601cb-5d54-44f8-897f-e91d219df0f0" name="Changes" comment="DONE" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,14 +72,7 @@
       <workItem from="1688452993652" duration="17203000" />
       <workItem from="1688491726136" duration="410000" />
       <workItem from="1688492296749" duration="13870000" />
-      <workItem from="1688627755670" duration="4201000" />
-    </task>
-    <task id="LOCAL-00007" summary="4step">
-      <created>1687894079449</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1687894079449</updated>
+      <workItem from="1688627755670" duration="4377000" />
     </task>
     <task id="LOCAL-00008" summary="4step">
       <created>1687897790392</created>
@@ -424,7 +410,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688634006606</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="DONE">
+      <created>1688634626202</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1688634626202</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

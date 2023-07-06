@@ -88,7 +88,7 @@ h2 {
 @media (min-width: 1240px) {
   .backsize-two {
     display: flex;
-    justify-content: start;
+    justify-content: center;
   }
 }
 .backsize-four {
@@ -100,7 +100,7 @@ h2 {
 @media (min-width: 1240px) {
   .backsize-four {
     display: flex;
-    justify-content: start;
+    justify-content: center;
   }
 }
 .backsize-foot {

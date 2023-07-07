@@ -89,6 +89,7 @@ h2 {
   .backsize-two {
     display: flex;
     justify-content: center;
+    flex-direction: column;
   }
 }
 .backsize-four {
@@ -246,7 +247,7 @@ h2 {
     width: 570px;
   }
 }
-h2 {
+.backsize-two h2 {
   text-align: left;
   margin-bottom: 48px;
   margin-top: 0;

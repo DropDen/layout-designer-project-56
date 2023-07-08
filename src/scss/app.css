@@ -510,6 +510,7 @@ h2 {
   .news .items .item:nth-child(1) {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: min-content;
     grid-column-gap: 50px;
     justify-content: center;
   }
@@ -532,6 +533,7 @@ h2 {
   .news .items .item:nth-child(1) > img {
     grid-column: span 1;
     background-size: cover;
+    margin-bottom: 0;
   }
   .news .items .item:nth-child(2) {
     display: grid;
@@ -539,6 +541,9 @@ h2 {
     grid-template-areas: "tex ozz";
     grid-column-gap: 50px;
     justify-content: center;
+  }
+  .news .items .item:nth-child(2) img {
+    margin-bottom: 0;
   }
   .news .items .item:nth-child(2) .itemdescript {
     grid-area: tex;

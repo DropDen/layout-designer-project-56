@@ -81,6 +81,7 @@
       & .item:nth-child(1) {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: min-content;
         grid-column-gap: 50px;
         justify-content: center;
 
@@ -107,6 +108,7 @@
         &>img {
           grid-column: span 1;
           background-size: cover;
+          margin-bottom: 0;
         }
       }
 
@@ -116,6 +118,10 @@
         grid-template-areas: "tex ozz";
         grid-column-gap: 50px;
         justify-content: center;
+
+        & img {
+          margin-bottom: 0;
+        }
 
         & .itemdescript {
           grid-area: tex;
@@ -136,6 +142,7 @@
           line-height: 24px;
         }
       }
+
     }
   }
 }

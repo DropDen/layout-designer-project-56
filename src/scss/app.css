@@ -359,7 +359,10 @@ h2 {
   margin-bottom: 46px;
 }
 .doska .price {
+  display: grid;
+  grid-template-rows: repeat(3, 619px);
   margin-bottom: 40px;
+  grid-row-gap: 50px;
 }
 .doska .price .pricing {
   background-position: center;
@@ -369,7 +372,6 @@ h2 {
   align-items: center;
   padding: 0 1.5rem;
   border-radius: 1rem;
-  margin-bottom: 50px;
 }
 .doska .price .pricing h3 {
   font-size: 16px;
@@ -409,12 +411,15 @@ h2 {
   margin-bottom: 64px;
 }
 .doska .price .free {
+  grid-row: span 1;
   background-image: url(../images/subscribe_1.png);
 }
 .doska .price .standart {
+  grid-row: span 1;
   background-image: url(../images/subscribe_2.png);
 }
 .doska .price .premium {
+  grid-row: span 1;
   background-image: url(../images/subscribe_3.png);
 }
 .doska .footerdoska {
@@ -430,17 +435,10 @@ h2 {
     margin-bottom: 45px;
   }
   .doska .price {
-    display: flex;
-    justify-content: center;
-    flex-direction: row;
-    margin-bottom: 0px;
-  }
-  .doska .price .pricing {
-    flex-direction: column;
-    margin-right: 50px;
-  }
-  .doska .price .pricing:last-child {
-    margin-right: 0;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 50px;
+    grid-template-rows: 1fr;
+    margin-bottom: 40px;
   }
   .doska .price .pricing h3 {
     font-size: 24px;

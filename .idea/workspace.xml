@@ -9,7 +9,8 @@
       <change beforePath="$PROJECT_DIR$/src/artist.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/artist.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/apps.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/apps.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/apps.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/apps.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/page-two.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/page-two.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/backsize.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/backsize.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/page-four.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/page-four.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,14 +80,7 @@
       <workItem from="1688491726136" duration="410000" />
       <workItem from="1688492296749" duration="13870000" />
       <workItem from="1688627755670" duration="5102000" />
-      <workItem from="1688756383804" duration="931000" />
-    </task>
-    <task id="LOCAL-00013" summary="5stepdone">
-      <created>1687983544291</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1687983544291</updated>
+      <workItem from="1688756383804" duration="1780000" />
     </task>
     <task id="LOCAL-00014" summary="6step">
       <created>1688072104055</created>
@@ -424,7 +418,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688756982520</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="DONE">
+      <created>1688757900171</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1688757900171</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -441,7 +441,8 @@ h2 {
     grid-template-columns: repeat(3, 1fr);
     grid-column-gap: 50px;
     grid-template-rows: 1fr;
-    margin-bottom: 40px;
+    grid-row-gap: 0px;
+    margin-bottom: 17px;
   }
   .doska .price .pricing h3 {
     font-size: 24px;

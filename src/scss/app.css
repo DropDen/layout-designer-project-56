@@ -362,7 +362,7 @@ h2 {
   display: grid;
   grid-template-rows: repeat(3, 619px);
   margin-bottom: 40px;
-  grid-row-gap: 50px;
+  grid-row-gap: 27px;
 }
 .doska .price .pricing {
   background-position: center;
@@ -412,14 +412,17 @@ h2 {
 }
 .doska .price .free {
   grid-row: span 1;
+  margin-bottom: 23px;
   background-image: url(../images/subscribe_1.png);
 }
 .doska .price .standart {
   grid-row: span 1;
+  margin-bottom: 23px;
   background-image: url(../images/subscribe_2.png);
 }
 .doska .price .premium {
   grid-row: span 1;
+  margin-bottom: 23px;
   background-image: url(../images/subscribe_3.png);
 }
 .doska .footerdoska {

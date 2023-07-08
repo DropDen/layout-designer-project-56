@@ -473,7 +473,7 @@ h2 {
   grid-template-columns: repeat(3, auto);
   justify-content: left;
   grid-column-gap: 16px;
-  margin-bottom: 24px;
+  margin-bottom: 22px;
 }
 .news .items .item .grid .grid1 {
   grid-column: span 1;

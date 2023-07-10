@@ -8,11 +8,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scss/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/app.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scss/app.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/app.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/app.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/back.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/back.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scss/back2.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/back2.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/back3.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/back3.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/backsize.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/backsize.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scss/doska.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/doska.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scss/general.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/general.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scss/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/header.scss" afterDir="false" />
@@ -89,14 +85,7 @@
       <workItem from="1688491726136" duration="410000" />
       <workItem from="1688492296749" duration="13870000" />
       <workItem from="1688627755670" duration="5102000" />
-      <workItem from="1688756383804" duration="10751000" />
-    </task>
-    <task id="LOCAL-00028" summary="artist1">
-      <created>1688459450454</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1688459450454</updated>
+      <workItem from="1688756383804" duration="11862000" />
     </task>
     <task id="LOCAL-00029" summary="artist1">
       <created>1688460157311</created>
@@ -434,7 +423,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689010086458</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="DONE">
+      <created>1689012171040</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1689012171040</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -44,12 +44,12 @@
     }
 
     & .btm {
-      & .button{
+      & .button {
         width: 100%;
         padding: 20px 30px;
         border-radius: 5px;
         border: none;
-        background: #34C176;
+        background: #34c176;
         color: $text-white;
         text-transform: uppercase;
         cursor: pointer;
@@ -72,8 +72,10 @@
       & form {
         width: 273px;
         box-sizing: border-box;
-        &:nth-child(2){
-          margin-left: auto}
+
+        &:nth-child(2) {
+          margin-left: auto;
+        }
       }
 
       & .btm {

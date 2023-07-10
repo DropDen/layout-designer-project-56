@@ -3,6 +3,7 @@
     text-align: center;
     margin-bottom: 46px;
   }
+
   & .price {
     display: flex;
     flex-direction: column;
@@ -82,7 +83,6 @@
 }
 
 @media (min-width: 1240px) {
-
   .doska {
     display: block;
     align-items: center;
@@ -93,7 +93,7 @@
 
     & .price {
       display: grid;
-      grid-template-columns: repeat(3,1fr);
+      grid-template-columns: repeat(3, 1fr);
       grid-column-gap: 50px;
       grid-template-rows: 1fr;
 

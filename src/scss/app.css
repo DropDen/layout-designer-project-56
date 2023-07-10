@@ -16,7 +16,7 @@
 body {
   font-family: Roboto, sans-serif;
   line-height: 1.5em;
-  color: #ffffff;
+  color: #fff;
   margin: 0;
   font-weight: 400;
   background-color: #08020d;
@@ -173,10 +173,10 @@ h2 {
   cursor: pointer;
 }
 .header .menu ul li a:hover {
-  color: #ffffff;
+  color: #fff;
 }
 .header .menu ul li .firsta {
-  color: #ffffff;
+  color: #fff;
 }
 .header .search-head label {
   cursor: default;
@@ -257,15 +257,15 @@ h2 {
 .hero .forms form label input::placeholder {
   padding-left: 20px;
   font-size: 14px;
-  color: #ffffff;
+  color: #fff;
 }
 .hero .forms .btm .button {
   width: 100%;
   padding: 20px 30px;
   border-radius: 5px;
   border: none;
-  background: #34C176;
-  color: #ffffff;
+  background: #34c176;
+  color: #fff;
   text-transform: uppercase;
   cursor: pointer;
 }
@@ -291,6 +291,23 @@ h2 {
     width: 570px;
   }
 }
+.fotfot {
+  padding: 40px 0 47px;
+}
+.fotfot ul {
+  display: grid;
+  grid-template-rows: repeat(5, 1fr);
+  grid-row-gap: 16px;
+  list-style-type: none;
+  padding: 0;
+  color: #cacaca;
+  font-size: 16px;
+  line-height: 24px;
+  text-decoration: none;
+  cursor: pointer;
+  margin: 0;
+}
+
 .back2 {
   display: grid;
   grid-template-rows: repeat(4, min-content);
@@ -321,23 +338,6 @@ h2 {
   box-sizing: border-box;
   width: 100%;
   border: 1px solid #cacaca;
-  margin: 0;
-}
-
-.fotfot {
-  padding: 40px 0 47px;
-}
-.fotfot ul {
-  display: grid;
-  grid-template-rows: repeat(5, 1fr);
-  grid-row-gap: 16px;
-  list-style-type: none;
-  padding: 0;
-  color: #cacaca;
-  font-size: 16px;
-  line-height: 24px;
-  text-decoration: none;
-  cursor: pointer;
   margin: 0;
 }
 
@@ -401,9 +401,9 @@ h2 {
   border-radius: 5px;
   font-size: 16px;
   line-height: 24px;
-  border: 1px solid #ffffff;
+  border: 1px solid #fff;
   background: none;
-  color: #ffffff;
+  color: #fff;
   text-transform: uppercase;
   cursor: pointer;
   margin-bottom: 64px;
@@ -554,13 +554,6 @@ h2 {
   .news .items .item:nth-child(2) img {
     margin-bottom: 0;
   }
-  .news .items .item:nth-child(2) .itemdescript {
-    grid-area: tex;
-  }
-  .news .items .item:nth-child(2) .ozzi {
-    grid-area: ozz;
-    background-size: cover;
-  }
   .news .items .item:nth-child(2) h3 {
     font-size: 30px;
     line-height: 45px;
@@ -569,6 +562,13 @@ h2 {
   .news .items .item:nth-child(2) p {
     font-size: 16px;
     line-height: 24px;
+  }
+  .news .items .item:nth-child(2) .itemdescript {
+    grid-area: tex;
+  }
+  .news .items .item:nth-child(2) .ozzi {
+    grid-area: ozz;
+    background-size: cover;
   }
 }
 .back3 {
@@ -611,8 +611,8 @@ h2 {
   border-radius: 32px;
   font-size: 12.8px;
   border: none;
-  background: #95390C;
-  color: #ffffff;
+  background: #95390c;
+  color: #fff;
   cursor: pointer;
 }
 

@@ -36,7 +36,7 @@
             color: $text-white;
           }
         }
-        & .firsta{
+        & .firsta {
           color: $text-white;
         }
       }
@@ -44,7 +44,6 @@
   }
 
   & .search-head {
-
     & label {
       cursor: default;
 
@@ -80,10 +79,11 @@
 
     & .menu {
       display: inline-block;
+
       & ul {
         & li {
           display: inline-block;
-          margin: 0 24px 0 0 ;
+          margin: 0 24px 0 0;
         }
       }
     }

@@ -98,10 +98,9 @@
             font-size: 16px;
             line-height: 24px;
           }
-
         }
 
-        &>img {
+        & > img {
           grid-column: span 1;
           background-size: cover;
           margin-bottom: 0;
@@ -119,15 +118,6 @@
           margin-bottom: 0;
         }
 
-        & .itemdescript {
-          grid-area: tex;
-        }
-
-        & .ozzi {
-          grid-area: ozz;
-          background-size: cover;
-        }
-
         & h3 {
           font-size: 30px;
           line-height: 45px;
@@ -137,6 +127,15 @@
         & p {
           font-size: 16px;
           line-height: 24px;
+        }
+
+        & .itemdescript {
+          grid-area: tex;
+        }
+
+        & .ozzi {
+          grid-area: ozz;
+          background-size: cover;
         }
       }
     }

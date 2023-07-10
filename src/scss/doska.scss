@@ -6,10 +6,12 @@
   }
 
   & .price {
-    display: grid;
-    grid-template-rows: repeat(3, 619px);
-    margin-bottom: 17px;
-    grid-row-gap: 27px;
+    display: flex;
+    flex-direction: column;
+    //display: grid;
+    //grid-template-rows: repeat(3, 619px);
+    //margin-bottom: 17px;
+    //grid-row-gap: 27px;
 
     & .pricing {
       background-position: center;
@@ -21,7 +23,7 @@
 
       padding: 0 1.5rem;
       border-radius: 1rem;
-      //margin-bottom: 50px;
+      margin-bottom: 50px;
 
       & h3 {
         font-size: 16px;
@@ -67,17 +69,17 @@
     }
     & .free {
       grid-row: span 1;
-      margin-bottom: 23px;
+      //margin-bottom: 23px;
       background-image: url(../images/subscribe_1.png);
     }
     & .standart {
       grid-row: span 1;
-      margin-bottom: 23px;
+      //margin-bottom: 23px;
       background-image: url(../images/subscribe_2.png);
     }
     & .premium {
       grid-row: span 1;
-      margin-bottom: 23px;
+      //margin-bottom: 23px;
       background-image: url(../images/subscribe_3.png);
     }
   }
@@ -98,6 +100,8 @@
     }
 
     & .price {
+      display: grid;
+      //margin-bottom: 17px;
       grid-template-columns: repeat(3,1fr);
       grid-column-gap: 50px;
       grid-template-rows: 1fr;
@@ -105,7 +109,7 @@
       //display: flex;
       //justify-content: center;
       //flex-direction: row;
-      margin-bottom: 17px;
+      margin-bottom: 0px;
 
       & .pricing {
         //flex-direction: column;

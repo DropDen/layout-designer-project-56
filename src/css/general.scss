@@ -49,6 +49,11 @@ h2 {
     text-transform: uppercase;
 }
 
+.sect {
+    display: flex;
+    justify-content: center;
+}
+
 @media (min-width : 1240px){
     h1 {
         font-size: 60px;

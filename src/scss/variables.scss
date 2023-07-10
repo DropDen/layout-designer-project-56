@@ -71,6 +71,11 @@ h2 {
   }
 }
 
+.sect {
+  display: flex;
+  justify-content: center;
+}
+
 #page-pricing {
   display: block;
   padding-top: 100px;

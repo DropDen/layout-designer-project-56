@@ -66,6 +66,11 @@ h2 {
     text-transform: uppercase;
   }
 }
+.sect {
+  display: flex;
+  justify-content: center;
+}
+
 #page-pricing {
   display: block;
   padding-top: 100px;

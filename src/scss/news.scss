@@ -74,6 +74,38 @@
     display: block;
 
     & .items {
+      & .item:nth-child(2) {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-areas: "tex ozz";
+        grid-column-gap: 50px;
+        justify-content: center;
+
+        & img {
+          margin-bottom: 0;
+        }
+
+        & h3 {
+          font-size: 30px;
+          line-height: 45px;
+          margin-top: 0;
+        }
+
+        & p {
+          font-size: 16px;
+          line-height: 24px;
+        }
+
+        & .itemdescript {
+          grid-area: tex;
+        }
+
+        & .ozzi {
+          grid-area: ozz;
+          background-size: cover;
+        }
+      }
+
       & .item:nth-child(1) {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
@@ -104,38 +136,6 @@
           grid-column: span 1;
           background-size: cover;
           margin-bottom: 0;
-        }
-      }
-
-      & .item:nth-child(2) {
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        grid-template-areas: "tex ozz";
-        grid-column-gap: 50px;
-        justify-content: center;
-
-        & img {
-          margin-bottom: 0;
-        }
-
-        & h3 {
-          font-size: 30px;
-          line-height: 45px;
-          margin-top: 0;
-        }
-
-        & p {
-          font-size: 16px;
-          line-height: 24px;
-        }
-
-        & .itemdescript {
-          grid-area: tex;
-        }
-
-        & .ozzi {
-          grid-area: ozz;
-          background-size: cover;
         }
       }
     }

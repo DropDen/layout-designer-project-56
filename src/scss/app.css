@@ -516,6 +516,32 @@ h2 {
   .news {
     display: block;
   }
+  .news .items .item:nth-child(2) {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-areas: "tex ozz";
+    grid-column-gap: 50px;
+    justify-content: center;
+  }
+  .news .items .item:nth-child(2) img {
+    margin-bottom: 0;
+  }
+  .news .items .item:nth-child(2) h3 {
+    font-size: 30px;
+    line-height: 45px;
+    margin-top: 0;
+  }
+  .news .items .item:nth-child(2) p {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .news .items .item:nth-child(2) .itemdescript {
+    grid-area: tex;
+  }
+  .news .items .item:nth-child(2) .ozzi {
+    grid-area: ozz;
+    background-size: cover;
+  }
   .news .items .item:nth-child(1) {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -543,32 +569,6 @@ h2 {
     grid-column: span 1;
     background-size: cover;
     margin-bottom: 0;
-  }
-  .news .items .item:nth-child(2) {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-template-areas: "tex ozz";
-    grid-column-gap: 50px;
-    justify-content: center;
-  }
-  .news .items .item:nth-child(2) img {
-    margin-bottom: 0;
-  }
-  .news .items .item:nth-child(2) h3 {
-    font-size: 30px;
-    line-height: 45px;
-    margin-top: 0;
-  }
-  .news .items .item:nth-child(2) p {
-    font-size: 16px;
-    line-height: 24px;
-  }
-  .news .items .item:nth-child(2) .itemdescript {
-    grid-area: tex;
-  }
-  .news .items .item:nth-child(2) .ozzi {
-    grid-area: ozz;
-    background-size: cover;
   }
 }
 .back3 {

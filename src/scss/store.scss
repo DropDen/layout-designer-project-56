@@ -7,8 +7,6 @@
   }
 
   & .flexconteiner {
-
-
     & .picstore {
       margin-bottom: 10px;
       text-align: center;
@@ -38,9 +36,9 @@
     }
   }
 }
-@media (min-width : 1240px){
-  .store {
 
+@media (min-width: 1240px) {
+  .store {
     & .flexconteiner {
       display: flex;
       flex-direction: row-reverse;
@@ -50,7 +48,6 @@
         display: flex;
         flex: 1;
         justify-content: center;
-
       }
 
       & .storedescript {

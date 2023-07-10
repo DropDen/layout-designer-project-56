@@ -1,22 +1,14 @@
 .doska {
-
   & h2 {
     text-align: center;
     margin-bottom: 46px;
   }
-
   & .price {
     display: flex;
     flex-direction: column;
-    //display: grid;
-    //grid-template-rows: repeat(3, 619px);
-    //margin-bottom: 17px;
-    //grid-row-gap: 27px;
 
     & .pricing {
-      //background-position: center;
       background-size: cover;
-
       display: flex;
       flex-direction: column;
       align-items: center;
@@ -66,20 +58,20 @@
         margin-bottom: 64px;
       }
     }
+
     & .free {
       grid-row: span 1;
-      //margin-bottom: 23px;
-      background-image: url(../images/subscribe_1.png);
+      background-image: url("../images/subscribe_1.png");
     }
+
     & .standart {
       grid-row: span 1;
-      //margin-bottom: 23px;
-      background-image: url(../images/subscribe_2.png);
+      background-image: url("../images/subscribe_2.png");
     }
+
     & .premium {
       grid-row: span 1;
-      //margin-bottom: 23px;
-      background-image: url(../images/subscribe_3.png);
+      background-image: url("../images/subscribe_3.png");
       margin-bottom: 40px;
     }
   }
@@ -89,8 +81,7 @@
   }
 }
 
-
-@media (min-width : 1240px) {
+@media (min-width: 1240px) {
 
   .doska {
     display: block;
@@ -102,31 +93,21 @@
 
     & .price {
       display: grid;
-      //margin-bottom: 17px;
       grid-template-columns: repeat(3,1fr);
       grid-column-gap: 50px;
       grid-template-rows: 1fr;
-      //display: flex;
-      //justify-content: center;
-      //flex-direction: row;
-      //margin-bottom: 0px;
 
       & .pricing {
-        //flex-direction: column;
-        //margin-right: 50px;
-
-        &:last-child {
-          //margin-right: 0;
-        }
-
         & h3 {
           font-size: 24px;
           line-height: 36px;
         }
       }
+
       & .standart {
         margin-bottom: 40px;
       }
+
       & .free {
         margin-bottom: 40px;
       }

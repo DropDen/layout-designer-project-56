@@ -1,15 +1,12 @@
 .news {
-
   & h2 {
     text-align: center;
     margin-bottom: 48px;
   }
+
   & .items {
-
     & .item {
-
       & img {
-
         width: 100%;
         margin-bottom: 26px;
       }
@@ -21,6 +18,7 @@
         font-weight: 400;
         margin-bottom: 16px;
       }
+
       & p {
         color: $text-grey;
         margin-bottom: 24px;
@@ -32,22 +30,21 @@
         justify-content: left;
         grid-column-gap: 16px;
         margin-bottom: 22px;
-        //24px
 
         & .grid1 {
           grid-column: span 1;
         }
+
         & .grid2 {
           grid-column: span 1;
           font-size: 12.8px;
-          //line-height: 1.5em;
           color: $orange;
           align-items: center;
         }
+
         & .grid3 {
           grid-column: span 1;
           font-size: 12.8px;
-          //line-height: 1.5em;
           color: $text-grey;
         }
       }
@@ -58,23 +55,21 @@
         flex-shrink: 0;
         border-radius: 5px;
         font-size: 12.8px;
-        //line-height: 1.5rem;
         border: 1px solid $text-grey;
         background: none;
         color: $text-grey;
         text-transform: uppercase;
         cursor: pointer;
-        //margin-bottom: 64px;
       }
     }
-    & .item:nth-child(1){
+
+    & .item:nth-child(1) {
       margin-bottom: 64px;
     }
   }
 }
 
-
-@media (min-width : 1240px) {
+@media (min-width: 1240px) {
   .news {
     display: block;
 
@@ -132,6 +127,7 @@
           grid-area: ozz;
           background-size: cover;
         }
+
         & h3 {
           font-size: 30px;
           line-height: 45px;
@@ -143,7 +139,6 @@
           line-height: 24px;
         }
       }
-
     }
   }
 }

@@ -5,17 +5,12 @@
   grid-row-gap: 30px;
 
   & .foocol {
-
-    & h2 {
-    }
-
     & ul {
       list-style-type: none;
       padding: 0;
       margin-bottom: 0;
 
       & li {
-
         & a {
           font-size: 16px;
           line-height: 24px;
@@ -26,8 +21,8 @@
       }
     }
   }
-  & .foocol:nth-child(4) {
 
+  & .foocol:nth-child(4) {
     & ul {
       display: grid;
       grid-template-columns: repeat(4, min-content);
@@ -41,9 +36,8 @@
   background: $text-grey;
   box-sizing: border-box;
   width: 100%;
-  border: 1px solid #CACACA;
+  border: 1px solid #cacaca;
   margin: 0;
-
 }
 
 .fotfot {
@@ -64,7 +58,15 @@
   }
 }
 
-@media (min-width : 1240px) {
+@media (min-width: 1240px) {
+  .fotfot {
+    & ul {
+      grid-template-columns: repeat(5, min-content);
+      grid-template-rows: min-content;
+      grid-column-gap: 16px;
+    }
+  }
+
   .back2 {
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(1, min-content);
@@ -76,19 +78,9 @@
     }
 
     & .foocol {
-
       & ul {
         margin-top: 0;
       }
-    }
-  }
-
-  .fotfot {
-
-    & ul {
-      grid-template-columns: repeat(5, min-content);
-      grid-template-rows: min-content;
-      grid-column-gap: 16px;
     }
   }
 }

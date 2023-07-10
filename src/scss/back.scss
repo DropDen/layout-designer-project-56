@@ -2,13 +2,12 @@
   display: block;
   padding-top: 248px;
   padding-bottom: 200px;
-
-  background-image: url(../images/banner.png);
+  background-image: url("../images/banner.png");
   background-position: center;
   background-size: cover;
 }
 
-@media (min-width : 1240px) {
+@media (min-width: 1240px) {
   .back {
     display: flex;
     justify-content: center;

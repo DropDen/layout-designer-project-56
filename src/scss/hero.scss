@@ -4,9 +4,12 @@
   flex-direction: column;
   align-items: center;
 
-  & h1, h2, p {
+  & h1,
+  h2,
+  p {
     text-align: center;
   }
+
   & p {
     margin-top: 16px;
     margin-bottom: 17px;
@@ -21,7 +24,6 @@
       & label {
         cursor: default;
 
-
         & input {
           font-weight: 700;
           box-sizing: border-box;
@@ -32,7 +34,7 @@
           border-radius: 3px;
           margin-bottom: 24px;
 
-          &::placeholder{
+          &::placeholder {
             padding-left: 20px;
             font-size: 14px;
             color: $text-white;
@@ -40,8 +42,8 @@
         }
       }
     }
-    & .btm {
 
+    & .btm {
       & .button{
         width: 100%;
         padding: 20px 30px;
@@ -56,11 +58,8 @@
   }
 }
 
-
-
-@media (min-width : 1240px) {
+@media (min-width: 1240px) {
   .hero {
-
     & h2 {
       margin-bottom: 14px;
     }
@@ -77,11 +76,9 @@
           margin-left: auto}
       }
 
-
       & .btm {
         display: block;
         width: 570px;
-
       }
     }
   }
